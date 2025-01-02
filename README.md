@@ -53,9 +53,9 @@ Este proyecto tiene como objetivo optimizar la gestión de residuos en la Ciudad
 ---
 
 ## Demo
-Incluye un video en la carpeta `/demo/` que muestra el modelo y el chatbot en funcionamiento.
+Puedes ver el video demostrativo del modelo y el chatbot en acción [aquí](/demo/demo.mp4).
 
 ---
 
 ## Informe Final
-El informe completo del proyecto se encuentra en la carpeta `/docs/` bajo el nombre `informe_final.pdf`.
+El informe completo del proyecto se encuentra en la carpeta `/docs/` bajo el nombre [informe_final.pdf](/docs/informe_final.pdf).
